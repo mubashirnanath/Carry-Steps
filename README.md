@@ -1,15 +1,15 @@
 Carry Steps.
 ------------
-Frontend
 To run this project
+Backend
 - change directory to server.
 
-		cd server."
+		cd server
         npm install
         npm run dev
-Backend
+Frontend
 - change directory to client.
 
-		cd client."
+		cd client
         npm install
         npm start
